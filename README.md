@@ -28,7 +28,7 @@ This project is a part of my **Cloud Data Engineering** learning journey, where 
 ## ⚡ How to Run the Project
 1. **Clone the Repository**  
    ```sh
-   git clone https://github.com/akhtarcloudx/ETL-Retail-Orders-Project.git.git
+   git clone https://github.com/akhtarcloudx/ETL-Retail-Orders-Project.git
    cd Retail-Order-ETL
    ```
 2. **Set Up Kaggle API**  
