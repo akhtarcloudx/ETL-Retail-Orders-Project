@@ -39,10 +39,6 @@ This project is a part of my **Cloud Data Engineering** learning journey, where 
 - Gained hands-on experience with the **ETL process**.
 - Strengthened my **Python (pandas) and SQL** skills.
 - Learned how to use the **Kaggle API** for data extraction.
-
-## 🙌 Acknowledgments
-A huge thanks to my mentors **Qasim Hassan, Uzair Khan, and Ayan Hussain** for their guidance and support throughout this project! 🎉
-
 ---
 
 If you find this project useful, feel free to ⭐ the repo and contribute! Let's connect and grow together in the **Data Engineering** space. 🚀
